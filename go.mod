@@ -1,1 +1,1 @@
-module "github/spachava753/go-jsd"
+module "github.com/spachava753/go-jsd"
